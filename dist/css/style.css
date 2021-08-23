@@ -54,7 +54,7 @@ body {
 .btn-small,
 .btn-small:link,
 .btn-small:visited {
-  background-image: linear-gradient(to right bottom, #fbdb89, #f48982);
+  background-image: linear-gradient(to right bottom, #fbdb89, #613d35);
   border-radius: 10rem;
   border: none;
   text-transform: uppercase;
@@ -162,7 +162,7 @@ body {
 .heading-2 {
   font-size: 1.8rem;
   font-weight: 600;
-  color: #f59a83;
+  color: #442a23;
   text-transform: uppercase;
   margin-bottom: 2.5rem;
   text-align: center;
@@ -187,7 +187,7 @@ body {
 .loader svg {
   height: 5.5rem;
   width: 5.5rem;
-  fill: #f59a83;
+  fill: #382e2c;
   transform-origin: 44% 50%;
   animation: rotate 1.5s infinite linear;
 }
@@ -263,7 +263,7 @@ body {
   opacity: 1;
 }
 .likes__icon {
-  fill: #f59a83;
+  fill: #461e14;
   height: 3.75rem;
   width: 3.75rem;
 }
@@ -342,7 +342,7 @@ body {
 .results__name,
 .likes__name {
   font-size: 1.3rem;
-  color: #f59a83;
+  color: #503129;
   text-transform: uppercase;
   font-weight: 600;
   margin-bottom: 0.3rem;
